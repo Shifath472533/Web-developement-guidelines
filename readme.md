@@ -6,8 +6,7 @@ All resources and notes from the Complete Web Developer in 2020: Zero to Mastery
 ******************************************************************************************
 ## 1.	__Introduction__
 
-Discord Channel:
-*	~~https://discord.gg/nVmbHYY~~ You will find it inside course
+The details are given below
 ******************************************************************************************
 ## 2.	__How The Internet Works__
 
